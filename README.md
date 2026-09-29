@@ -1,1 +1,1 @@
-# Hakobj.github.io
+# Personal resume website, deployed with GitHub Pages.
